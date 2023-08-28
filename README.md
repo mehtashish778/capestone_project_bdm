@@ -59,7 +59,7 @@ Upon acceptance of the final submission, a viva voce presentation is conducted, 
 
 ## Credits
 
-- Student: [Your Name]
-- Course: BSMS2001P - Business Data Management
-- Institution: [Your Institution]
+- Student: Ashish Mehta
+- Course: BSMS2001P - Business Data Management Project
+- Institution: Indian Institute of Technology, Madras
 - Instructors: Dr. Ashwin J. Baliga, Dr. Aaditya Chandel, G Venkatesh, Dr. Milind Gandhe
